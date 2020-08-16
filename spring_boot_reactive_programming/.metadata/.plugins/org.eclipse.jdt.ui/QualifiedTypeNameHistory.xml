@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.annotation.security.RunAs"/>
+<fullyQualifiedTypeName name="org.springframework.test.context.junit4.SpringRunner"/>
+<fullyQualifiedTypeName name="org.springframework.boot.test.autoconfigure.web.reactive.WebFluxTest"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.http.MediaType"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="org.springframework.test.web.reactive.server.WebTestClient"/>
+<fullyQualifiedTypeName name="reactor.core.publisher.Flux"/>
+<fullyQualifiedTypeName name="reactor.test.StepVerifier"/>
+</qualifiedTypeNameHistroy>

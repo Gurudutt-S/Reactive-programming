@@ -1,0 +1,8 @@
+package com.reactiveSpring.controller;
+
+import javax.annotation.security.RunAs;
+
+@RunAs
+public class FluxAndMonoControllerTest {
+
+}
